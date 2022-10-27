@@ -1,4 +1,4 @@
-package ru.gb.Triangle;
+package Triangle;
 
 public class Triangle {
 
