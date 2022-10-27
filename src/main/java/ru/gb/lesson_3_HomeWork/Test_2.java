@@ -1,4 +1,4 @@
-package ConfaelShop.lesson_3_HomeWork;
+package ru.gb.lesson_3_HomeWork;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

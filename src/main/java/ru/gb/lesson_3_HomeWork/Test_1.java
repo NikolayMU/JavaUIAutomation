@@ -1,4 +1,4 @@
-package ConfaelShop.lesson_3_HomeWork;
+package ru.gb.lesson_3_HomeWork;
 // Тест на прохождение авторизации на сайте
 
 import io.github.bonigarcia.wdm.WebDriverManager;
