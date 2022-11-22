@@ -16,7 +16,7 @@ import org.w3c.dom.xpath.XPathResult;
 import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.openqa.selenium.devtools.v106.debugger.Debugger.pause;
+
 
 public class ConfaelTest {
 
